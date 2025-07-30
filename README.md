@@ -9,7 +9,7 @@ For the detection of an anomaly in the heart rate, it is important that we extra
 With an increase in cases of cardiac arrest, we aimed to provide aid in the health care sector for easy and quick analyzation of heart rate in detecting abnormalities in order to provide better treatment and faster treatment to the patients. Using this particular aid, the patient himself/herself can also analyze ones health.
 
 ### Motivation 
-Oneiofitheimosticommonicausesiofideath is cardiac arrest. Therefore, prediction, monitoring, detection of abnormalities etc., becomes important. The existing models in the technical market lack accuracy, reliability, specificity below 90%. 
+One of the most common causes of death is cardiac arrest. Therefore, prediction, monitoring, detection of abnormalities etc., becomes important. The existing models in the technical market lack accuracy, reliability, specificity below 90%. 
 The motivation for this project is that, in the last 2-3 decades, technological advancements have boosted the rise of risk factors in human health. Cardiac arrhythmias are a significant heart disorder in which the heart signal has acquired abnormalities that cause the heartbeat to increase and decrease, resulting in rapid death. ANN approaches will aid in the early identifiaction of anomalies in arrhythmias heart beat signals, resulting in better treatment and lower medical costs. The following research question aids in the early detection of heart rate arrhythmias in humans, which allows for improved treatment.
 
 ### Objectives and Scope
